@@ -1,0 +1,15 @@
+{
+  "name": "my-project",
+  "version": "1.0.1",
+  "description": "This is my first learning project in node js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "first",
+    "js"
+  ],
+  "author": "sonu sahoo",
+  "license": "ISC"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "assignment_of_nodejs",
+  "version": "1.0.0",
+  "description": "this for practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hay"
+  ],
+  "author": "sonu sahoo",
+  "license": "ISC"
+}
